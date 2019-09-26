@@ -7,5 +7,6 @@ We love poke !!!!
 - Jessica Adjei 
 - Rivka Ligier
 
-#### What we learned 
-We finally understood how upstream works ! 
+#### What we learned from the problem sets 
+3. We finally understood how upstream works ! 
+5. Learned how to create issues. 
