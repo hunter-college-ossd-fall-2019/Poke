@@ -6,3 +6,6 @@ We love poke !!!!
 - Toby Au
 - Jessica Adjei 
 - Rivka Ligier
+
+#### What we learned 
+We finally understood how upstream works ! 
