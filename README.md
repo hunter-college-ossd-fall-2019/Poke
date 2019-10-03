@@ -8,5 +8,5 @@ We love poke !!!!
 - Rivka Ligier
 
 #### What we learned from the problem sets 
-3. We finally understood how upstream works ! 
-5. Learned how to create issues. 
+- We finally understood how upstream works ! 
+- Learned how to create issues. 
