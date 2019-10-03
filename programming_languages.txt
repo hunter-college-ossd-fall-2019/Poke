@@ -1,0 +1,17 @@
+# Here are the languages we are proficient in :
+
+### Toby
+- Python
+- C++
+- Javascript
+
+
+### Rivka 
+- C++
+- Javascript
+
+
+### Jessica
+- C++
+- Javascript
+- C#
